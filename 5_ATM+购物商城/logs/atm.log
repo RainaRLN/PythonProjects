@@ -1,0 +1,20 @@
+2018-05-07 20:35:15,928 - account - ERROR - action: login  error: user not exit
+2018-05-07 20:35:32,579 - transactions - INFO - account: Tom  action: top up amount: 100
+2018-05-07 20:35:45,885 - transactions - ERROR - account: Tom  action: withdraw amount: 4555  error: balance not enough
+2018-05-07 20:35:48,757 - transactions - INFO - account: Tom  action: withdraw amount: 1000
+2018-05-07 20:35:59,985 - transactions - INFO - account: Tom  action: transfer money amount: 200
+2018-05-07 20:36:03,912 - transactions - ERROR - account: Tom  action: transfer money error: transfer object not exit
+2018-05-07 20:36:10,510 - transactions - INFO - account: Tom  action: transfer money amount: 2
+2018-05-07 20:36:44,048 - transactions - ERROR - account: Tom  action: shopping amount: 2026  error: balance not enough
+2018-05-07 20:36:54,920 - transactions - INFO - account: Tom  action: top up amount: 10000
+2018-05-07 20:37:08,655 - transactions - INFO - account: Tom  action: shopping amount: 2016
+2018-05-08 11:43:01,566 - account - ERROR - action: login  error: user not exit
+2018-05-08 11:43:05,984 - account - ERROR - action: login  error: user not exit
+2018-05-08 11:43:15,747 - account - ERROR - action: login  error: user not exit
+2018-05-08 11:46:18,513 - account - ERROR - account: Tom  action: login  error: password error
+2018-05-08 11:46:30,563 - transactions - INFO - account: Tom  action: top up amount: 10
+2018-05-08 11:47:00,505 - transactions - INFO - account: Tom  action: withdraw amount: 10
+2018-05-08 11:52:00,799 - transactions - INFO - account: Tom  action: top up amount: 100
+2018-05-08 11:52:04,977 - transactions - INFO - account: Tom  action: withdraw amount: 1
+2018-05-08 11:53:27,050 - transactions - INFO - account: Tom  action: withdraw amount: 1
+2018-05-08 11:53:41,627 - transactions - INFO - account: Tom  action: transfer money amount: 2
